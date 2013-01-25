@@ -9,3 +9,5 @@ Functions of GATE-Zigbee:
 
 SINK Zigbee 802.15.4 
 Publisher ROS of Zigbee frames
+
+TOPICS added /sensorIDs : FOR IoT application
