@@ -1,0 +1,5 @@
+uint32 seq
+time stamp
+string capid
+string caplocation
+string sensvals
