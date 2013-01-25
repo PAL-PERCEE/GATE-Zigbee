@@ -1,1 +1,0 @@
-/usr/bin/c++   -O2 -g     -pthread CMakeFiles/GATEZigbee_pub.dir/src/talker_new.o  -o ../bin/GATEZigbee_pub -rdynamic -L/opt/ros/fuerte/lib -lroscpp -lrostime -lrosconsole -lroscpp_serialization -lxmlrpcpp -Wl,-rpath,/opt/ros/fuerte/lib 
